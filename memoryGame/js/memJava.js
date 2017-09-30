@@ -125,8 +125,8 @@ var click = function() {
                             boxX[0].delay(1000).toggle('slow');
                             move();
                             splice0();
-                            winCount += 8;
-                            if(winCount === 1) {
+                            winCount += 1;
+                            if(winCount === 8) {
                                 modal();
                             };
                         };             
