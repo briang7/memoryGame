@@ -11,5 +11,7 @@ Features:  Move counter, Star levels, Reset Button and Timer.  Flip card/box on 
 All known bugs have been fixed. 
 Please contact briangease7@gmail.com with any questions or comments.
 
+My first real Javascript project.
+
 https://briang7.github.io/memoryGame/memoryGame/MemoryGame.html
 
